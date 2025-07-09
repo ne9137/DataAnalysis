@@ -163,7 +163,7 @@ def page_midtest():
                       .agg(평가인원 = ('연령','count'))
     st.dataframe(toy_story_data)
     fig1=plt.figure()
-    sns.histplot(toy_story_data,x="연령",y="평가인원")
+    sns.barplot(toy_story_data,x="연령",y="평가인원")
     st.pyplot(fig1)
 
     st.header("여자들이 제일 높은 평균 평점을 준 영화 top 10")
