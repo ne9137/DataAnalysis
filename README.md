@@ -1,10 +1,11 @@
 # DataAnalysis <br>
 
 ## Link
-[StreamlitLink](http://localhost:8501/)
+[streamlitLink](http://localhost:8501/)
 ## code 
 [PythonCode](mystreamlitapp.py)
-
+## video
+[videoLink](https://youtu.be/cft5SwMWZwM)
 
 
 ## Home 
