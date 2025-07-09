@@ -1,9 +1,9 @@
 # DataAnalysis <br>
 
 ## Link
-[streamlitLink](http://localhost:8501/)
+[StreamlitLink](http://localhost:8501/)
 ## code 
-[code](mystreamlitapp.py)
+[PythonCode](mystreamlitapp.py)
 
 
 
