@@ -1,27 +1,28 @@
 # DataAnalysis
 
-## Home
-<img src = "Home.jpg">
+## Home <br>
+<img src = "Home.jpg"> <br>
 
-## 영화데이터분석
-<img src = "MovieData.jpg">
+## 영화데이터분석 <br>
+<img src = "MovieData.jpg"> <br>
 
-## 자동차분석
-<img src = "CarData.jpg">
+## 자동차분석 <br>
+<img src = "CarData.jpg"> <br>
 
-## 학생시험분석
-<img src = "TestData.jpg">
+## 학생시험분석 <br>
+<img src = "TestData.jpg"> <br>
 
-## 경제데이터분석
-<img src = "EconomicsData.jpg">
+## 경제데이터분석 <br>
+<img src = "EconomicsData.jpg"> <br>
 
-## 기온데이터분석
-<img src = "TempData.jpg">
+## 기온데이터분석 <br>
+<img src = "TempData.jpg"> <br>
 
-## 국내인구데이터분석
-<img src = "PopData.jpg">
+## 국내인구데이터분석 <br>
+<img src = "PopData.jpg"> <br>
 
-## 워드클라우드
-<img src = "WordCloud.jpg">
+## 워드클라우드 <br>
+<img src = "WordCloud.jpg"> <br>
 
+[링크](http://localhost:8501/)
 
