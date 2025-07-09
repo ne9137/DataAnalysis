@@ -26,3 +26,6 @@
 ## 워드클라우드 <br>
 <img src = "WordCloud.jpg"> <br>
 
+
+## code
+[code](mystreamlitapp.py)
