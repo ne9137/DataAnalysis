@@ -1,5 +1,7 @@
 # DataAnalysis
 
+[streamlitLink](http://localhost:8501/)
+
 ## Home <br>
 <img src = "Home.jpg"> <br>
 
@@ -23,6 +25,4 @@
 
 ## 워드클라우드 <br>
 <img src = "WordCloud.jpg"> <br>
-
-[링크](http://localhost:8501/)
 
