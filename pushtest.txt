@@ -1,0 +1,7 @@
+vi: 파일만들기
+add:관리권한부여
+commit:로컬에 저장
+config user.name, config user.email : 수정한 사람의 정보 지정
+clone : github의 파일을 클론(똑같이 복사)
+push : github에 로컬의 파일을 업로드한다(master->main)
+
